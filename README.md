@@ -2,6 +2,10 @@
 
 _Easy reflection for Java and Android_
 
+## Project is Archived
+
+This project is no longer maintained.
+
 ## Introduction
 
 _Mirror_ turns a private class you want to use reflection on into a Java interface.
@@ -85,9 +89,10 @@ void setField(String aString);
 
 ## Download
 
-Gradle:
+This project is now archived, no release or update will be provided.
+You should probably embbed the code or resulting jar into your app to avoid any security risk.
 
-    compile 'com.genymobile:mirror:1.0.0'
+Alternatively, _Mirror_ can be used via Jitpack. See https://jitpack.io/#Genymobile/mirror/1.0.0
 
 Mirror requires at minimum Java 7.
 
